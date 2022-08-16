@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Rubik+Iso&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'DynaPuff', cursive;
+
+}
+body{
+    background-size:cover; /* Deixa o fundo Full scream*/
+    background-image: url(img/fundo\ Site.png); /*adiciona o fundo para todas as paginas*/
+}

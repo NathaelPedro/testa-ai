@@ -5,7 +5,7 @@ console.log(window.location.href)
 
 function HandleSubmit (event) {
     event.preventDefault();
-    window.location.href = "Page2.html"
+    window.location.href = "index2.html"
 }
 
 

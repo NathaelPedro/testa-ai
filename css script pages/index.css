@@ -8,5 +8,5 @@
 }
 body{
     background-size:cover; /* Deixa o fundo Full scream*/
-    background-image: url(img/fundo\ Site.png); /*adiciona o fundo para todas as paginas*/
+    background-image: url(/img/fundo\ Site.png); /*adiciona o fundo para todas as paginas*/
 }

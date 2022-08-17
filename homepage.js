@@ -4,7 +4,7 @@ const [nome,senha,button] = input;
 
 function HandleSubmit (event) {
     event.preventDefault();
-    window.location = "page2.html"
+    window.location = "Page2.html"
 }
 
 
